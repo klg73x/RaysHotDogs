@@ -8,7 +8,7 @@ using Android.Views;
 
 namespace RaysHotDogs
 {
-	[Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
+	[Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar")]
 	public class MainActivity : AppCompatActivity
 	{
 
